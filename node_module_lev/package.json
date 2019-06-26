@@ -1,0 +1,10 @@
+{
+  "name": "calc-sphere",
+  "version": "1.0.0",
+  "author": "Lev Savranskiy <lfs2008@yandex.ru>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
